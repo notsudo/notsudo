@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 
 ### 📊 Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Oscar-999&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=notsudo&theme=dark)](https://git.io/streak-stats)
 #
 <!--
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscar-999&theme=dark&show_icons=true)
