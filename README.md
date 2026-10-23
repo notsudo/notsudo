@@ -8,7 +8,7 @@ I'm a software developer apart of the hispanic latino community on the hunt for 
 
 
 
- <p style="text-align: center;"><a href="mailto:developedbyoscar@gmail.com">❗Contact me: oscarvac74@gmail.com</a></p>
+ <p style="text-align: center;"><a href="mailto:developedbyoscar@gmail.com">❗Contact me: developedbyoscar@gmail.com</a></p>
             <center>
               <p><a href="https://oscaralcantar.com">❗Checkout my Portfolio</a></p>
             </center>
